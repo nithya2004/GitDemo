@@ -1,0 +1,16 @@
+git init -> initialises a folder in your local for git
+
+git add GitFile1 -->adds a new file to the git folder
+
+
+git commit -m 'Initial project version' -->commits with a commit message
+
+
+
+git status
+git log
+git stage
+git commit
+git push
+git pull request
+git merge
